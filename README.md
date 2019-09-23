@@ -27,6 +27,7 @@ This is a checklist for collecting and organizing maptalks plug-ins. Welcome to 
 - [maptalks.glowring](https://github.com/liubgithub/maptalks.glowring) - A Luminescent Element Layer of maptalks
 - [maptalks.wind](https://github.com/sakitam-gis/maptalks.wind) - A Plug of windlayer for maptalks
 - [maptalks.minedata](https://github.com/sakitam-gis/maptalks.minedata) - A plugin to add minedata as a layer for maptalks.js.
+
 **Class Tools**
 - [maptalks.plotsymbol](https://github.com/sakitam-gis/maptalks.wind) - The military plotting for maptalks
 - [maptalks-awesome-markers](https://github.com/deyihu/maptalks-awesome-markers) - Font Awesome Icons on maptalks
