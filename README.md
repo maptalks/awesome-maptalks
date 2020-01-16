@@ -22,14 +22,14 @@ This is a checklist for collecting and organizing maptalks plug-ins. Welcome to 
 - [maptalks.IdwLayer](https://github.com/zzcyrus/maptalks.IdwLayer) - A small maptalks plugin to generate an IDW layer
 - [maptalks.esri](https://github.com/liubgithub/maptalks.esri) - A esri plugin for maptalks.js,include ImageLayer and FeatureLayer
 - [maptalks.biglayer](https://github.com/liubgithub/maptalks.biglayer) - A maptalks layer to render millions of data with WebGL
-- [maptalks.gridlayer](https://github.com/liubgithub/maptalks.biglayer) - A GridLayer plugin for maptalks.js. A layer draws grids.
+- [maptalks.gridlayer](https://github.com/maptalks/maptalks.gridlayer) - A GridLayer plugin for maptalks.js. A layer draws grids.
 - [maptalks.collisionLayer](https://github.com/ageeye-cn/maptalks.collisionLayer) - A marker collision plugin for maptalks and uses rbush library.
 - [maptalks.glowring](https://github.com/liubgithub/maptalks.glowring) - A Luminescent Element Layer of maptalks
 - [maptalks.wind](https://github.com/sakitam-gis/maptalks.wind) - A Plug of windlayer for maptalks
 - [maptalks.minedata](https://github.com/sakitam-gis/maptalks.minedata) - A plugin to add minedata as a layer for maptalks.js.
 
 **Class Tools**
-- [maptalks.plotsymbol](https://github.com/sakitam-gis/maptalks.wind) - The military plotting for maptalks
+- [maptalks.plotsymbol](https://github.com/fuzhenn/maptalks.plotsymbol) - The military plotting for maptalks
 - [maptalks-awesome-markers](https://github.com/deyihu/maptalks-awesome-markers) - Font Awesome Icons on maptalks
 - [maptalks.control.compass](https://github.com/cXiaof/maptalks.control.compass) - A compass for the control of maptalks
 - [maptalks.mouseCoordinate](https://github.com/ageeye-cn/maptalks.mouseCoordinate) - Mouse monitor coordinate control of mapltaks
