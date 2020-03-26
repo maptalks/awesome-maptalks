@@ -10,7 +10,7 @@ This is a checklist for collecting and organizing maptalks plug-ins. Welcome to 
 - [maptalks.e4](https://github.com/maptalks/maptalks.e4) - A maptalks Layer to render with great echart4.js library.
 - [maptalks.d3](https://github.com/maptalks/maptalks.d3) - A maptalks Layer to render with great d3js library.
 - [maptalks.three](https://github.com/maptalks/maptalks.three) - A Plug in integrated with mapalks and three
-- [maptalks.cesium](https://github.com/maptalks/maptalks.cesium) - A Plug in integrated with mapalks and cesium,but not sphere
+- [maptalks.cesium](https://github.com/fuzhenn/maptalks.cesium) - A Plug in integrated with mapalks and cesium,but not sphere
 - [maptalks.mapboxgl](https://github.com/maptalks/maptalks.mapboxgl) - A Plug in integrated with mapalks and mapboxgl
 - [maptalks.MBTileLayer](https://github.com/deyihu/maptalks-MBTileLayer) - A maptalks.js plugin to load tilesets in .mbtiles format.
 - [maptalks.deckgl](https://github.com/sakitam-gis/maptalks.deckgl) - A Plug in integrated with mapalks and deckgl
