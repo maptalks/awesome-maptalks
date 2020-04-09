@@ -21,6 +21,7 @@ This is a checklist for collecting and organizing maptalks plug-ins. Welcome to 
 - [maptalks.KrigingLayer](https://github.com/liubgithub/maptalks.KrigingLayer) - A Plug of Kriging for maptalks
 - [maptalks.IdwLayer](https://github.com/zzcyrus/maptalks.IdwLayer) - A small maptalks plugin to generate an IDW layer
 - [maptalks.esri](https://github.com/liubgithub/maptalks.esri) - A esri plugin for maptalks.js,include ImageLayer and FeatureLayer
+- [maptalks.arcgis](https://github.com/lifefriend/maptalks-demo) - A esri plugin for maptalks.js,include WMST and ArcgisTile
 - [maptalks.biglayer](https://github.com/liubgithub/maptalks.biglayer) - A maptalks layer to render millions of data with WebGL
 - [maptalks.gridlayer](https://github.com/maptalks/maptalks.gridlayer) - A GridLayer plugin for maptalks.js. A layer draws grids.
 - [maptalks.collisionLayer](https://github.com/ageeye-cn/maptalks.collisionLayer) - A marker collision plugin for maptalks and uses rbush library.

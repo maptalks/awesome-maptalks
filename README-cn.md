@@ -21,6 +21,7 @@
 - [maptalks.KrigingLayer](https://github.com/liubgithub/maptalks.KrigingLayer) - mapalks克里金插值图层
 - [maptalks.IdwLayer](https://github.com/zzcyrus/maptalks.IdwLayer) - 基于maptalks扩展创建IDWlayer
 - [maptalks.esri](https://github.com/liubgithub/maptalks.esri) - 基于mapalks对esri图层的扩展支持，包括ImageLayer和FeatureLayer
+- [maptalks.arcgis](https://github.com/lifefriend/maptalks-demo) - 基于mapalks对esri图层的扩展支持，包括WMTS和ArcgisTile
 - [maptalks.biglayer](https://github.com/liubgithub/maptalks.biglayer) - maptalks扩展基于webgl渲染百万数据的图层
 - [maptalks.gridlayer](https://github.com/maptalks/maptalks.gridlayer) - maptalks格网图层，用来绘制格网
 - [maptalks.collisionLayer](https://github.com/ageeye-cn/maptalks.collisionLayer) - marker碰撞检测图层
